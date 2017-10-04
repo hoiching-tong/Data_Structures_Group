@@ -1,0 +1,7 @@
+C:\Users\ching2tong\source\repos\Data_Structures_Group\Data_Structures_Group\bin\Debug\Data_Structures_Group.exe.config
+C:\Users\ching2tong\source\repos\Data_Structures_Group\Data_Structures_Group\bin\Debug\Data_Structures_Group.exe
+C:\Users\ching2tong\source\repos\Data_Structures_Group\Data_Structures_Group\bin\Debug\Data_Structures_Group.pdb
+C:\Users\ching2tong\source\repos\Data_Structures_Group\Data_Structures_Group\obj\Debug\Data_Structures_Group.csproj.CoreCompileInputs.cache
+C:\Users\ching2tong\source\repos\Data_Structures_Group\Data_Structures_Group\obj\Debug\Data_Structures_Group.exe
+C:\Users\ching2tong\source\repos\Data_Structures_Group\Data_Structures_Group\obj\Debug\Data_Structures_Group.pdb
+C:\Users\ching2tong\source\repos\Data_Structures_Group\Data_Structures_Group\obj\Debug\Data_Structures_Group.csprojResolveAssemblyReference.cache
